@@ -12,7 +12,7 @@
 
 
 
-- 💬 Ask me about **html,CSS,JavaScript,react,WebPack,Gatsby**
+- 💬 Ask me about **Html, CSS3, JavaScript, React-js, Tailwind CSS**
 
 - 📫 How to reach me **https://adarshrai.netlify.app/**
 
