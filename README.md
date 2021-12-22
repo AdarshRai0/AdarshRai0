@@ -10,13 +10,13 @@
 - 🌱 I’m currently learning **React**
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/AdarshRai0?tab=repositories](https://github.com/AdarshRai0?tab=repositories)
+
 
 - 💬 Ask me about **html,CSS,JavaScript,react,WebPack,Gatsby**
 
 - 📫 How to reach me **https://adarshrai.netlify.app/**
 
-- 📄 Know about my experiences [https://adarshrai.netlify.app/resume.pdf](https://adarshrai.netlify.app/resume.pdf)
+
 
 - ⚡ Fun fact **Computers are fast programmers keep it slow!**
 
