@@ -20,7 +20,11 @@
 
 - ⚡ Fun fact **Computers are fast programmers keep it slow!**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
+<a href="https://twitter.com/adarshrai00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhagsain" height="20" width="30" /></a>
+<a href="https://www.linkedin.com/in/adarsh-rai-0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-bhagsain" height="20" width="30" /></a>
 <!--
 **AdarshRai0/AdarshRai0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
