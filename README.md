@@ -1,5 +1,5 @@
-<img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif" align ="Center" alt ="Persoon typing code">
-
+<!-- <img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif" align ="Center" alt ="Persoon typing code"> -->
+<h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h1 align="center">Hi 👋, I'm Adarsh</h1>
 <h3 align="center">A self taught fronted developer from India</h3>
 
