@@ -16,7 +16,7 @@ I'm from Mumbai, India. Feel free to contact me on my <a href="https://www.linke
 
 - 💬 Ask me about **Html, CSS3, JavaScript, React-js, Tailwind CSS**
 
-- 📫 How to reach me **https://adarshrai.netlify.app/**
+- 📫 VIEW MY PORTFOLIO  **https://adarshrai.netlify.app/**
 
 
 
