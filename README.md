@@ -1,5 +1,5 @@
 <!-- <img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif" align ="Center" alt ="Persoon typing code"> -->
-<h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1>
 <p align="center">My name is Adarsh Rai and I'm a passionate software engineer with a bachelors degree in Computer Science.
 I'm from Mumbai, India. Feel free to contact me on my <a href="https://www.linkedin.com/in/adarshrai0">LinkedIn Profile!</a></p>
 
