@@ -1,5 +1,14 @@
 <h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
+### Hi, I'm Adarsh :) Nice to have you here!
+
+- 🔭 Working on becoming a software engineer
+- 🌱 Currently teaching myself web development
+- 👯 Looking to collaborate on anything!
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/adarsh-rai-0/) and [Twitter](https://twitter.com/adarshrai00)
+- 🔍 Take a look at my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/AdarshRai0)!
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/adarsh.rai.50951/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hustlersmindsets_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adarsh-rai-0/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@adarshrai3011) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/adarshrai00) 
 
